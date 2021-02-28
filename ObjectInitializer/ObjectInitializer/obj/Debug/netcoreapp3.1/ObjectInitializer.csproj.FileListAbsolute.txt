@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\bin\Debug\netcoreapp3.1\ObjectInitializer.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ObjectInitializer\ObjectInitializer\obj\Debug\netcoreapp3.1\ObjectInitializer.genruntimeconfig.cache
