@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\bin\Debug\netcoreapp3.1\ValueRef2.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\bin\Debug\netcoreapp3.1\ValueRef2.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\bin\Debug\netcoreapp3.1\ValueRef2.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\bin\Debug\netcoreapp3.1\ValueRef2.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\bin\Debug\netcoreapp3.1\ValueRef2.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\bin\Debug\netcoreapp3.1\ValueRef2.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.genruntimeconfig.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ValueRef2\ValueRef2\obj\Debug\netcoreapp3.1\ValueRef2.csprojAssemblyReference.cache

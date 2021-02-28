@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.1\EstruturasCSharp.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.1\EstruturasCSharp.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.1\EstruturasCSharp.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.1\EstruturasCSharp.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.1\EstruturasCSharp.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\bin\Debug\netcoreapp3.1\EstruturasCSharp.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\EstruturasCSharp\EstruturasCSharp\obj\Debug\netcoreapp3.1\EstruturasCSharp.genruntimeconfig.cache

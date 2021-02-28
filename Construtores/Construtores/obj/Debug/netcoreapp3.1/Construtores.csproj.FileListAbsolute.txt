@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache
