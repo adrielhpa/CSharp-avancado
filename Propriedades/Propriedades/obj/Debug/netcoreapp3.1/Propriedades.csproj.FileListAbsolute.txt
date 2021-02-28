@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\bin\Debug\netcoreapp3.1\Propriedades.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\bin\Debug\netcoreapp3.1\Propriedades.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\bin\Debug\netcoreapp3.1\Propriedades.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\bin\Debug\netcoreapp3.1\Propriedades.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\bin\Debug\netcoreapp3.1\Propriedades.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\bin\Debug\netcoreapp3.1\Propriedades.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\Propriedades\Propriedades\obj\Debug\netcoreapp3.1\Propriedades.genruntimeconfig.cache

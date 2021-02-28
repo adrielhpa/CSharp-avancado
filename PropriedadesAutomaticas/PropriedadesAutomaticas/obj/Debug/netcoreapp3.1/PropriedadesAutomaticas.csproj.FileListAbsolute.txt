@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\bin\Debug\netcoreapp3.1\PropriedadesAutomaticas.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\bin\Debug\netcoreapp3.1\PropriedadesAutomaticas.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\bin\Debug\netcoreapp3.1\PropriedadesAutomaticas.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\bin\Debug\netcoreapp3.1\PropriedadesAutomaticas.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\bin\Debug\netcoreapp3.1\PropriedadesAutomaticas.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\bin\Debug\netcoreapp3.1\PropriedadesAutomaticas.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\PropriedadesAutomaticas\PropriedadesAutomaticas\obj\Debug\netcoreapp3.1\PropriedadesAutomaticas.genruntimeconfig.cache
