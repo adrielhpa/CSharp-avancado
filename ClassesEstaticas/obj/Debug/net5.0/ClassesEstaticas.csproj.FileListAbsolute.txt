@@ -1,0 +1,16 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ref\ClassesEstaticas.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\bin\Debug\net5.0\ClassesEstaticas.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ref\ClassesEstaticas.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesEstaticas\obj\Debug\net5.0\ClassesEstaticas.genruntimeconfig.cache

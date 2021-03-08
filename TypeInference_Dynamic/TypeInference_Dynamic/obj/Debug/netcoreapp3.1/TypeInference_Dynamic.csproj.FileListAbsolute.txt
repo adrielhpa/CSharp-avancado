@@ -1,0 +1,13 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\bin\Debug\netcoreapp3.1\TypeInference_Dynamic.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\bin\Debug\netcoreapp3.1\TypeInference_Dynamic.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\bin\Debug\netcoreapp3.1\TypeInference_Dynamic.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\bin\Debug\netcoreapp3.1\TypeInference_Dynamic.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\bin\Debug\netcoreapp3.1\TypeInference_Dynamic.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\bin\Debug\netcoreapp3.1\TypeInference_Dynamic.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\TypeInference_Dynamic\TypeInference_Dynamic\obj\Debug\netcoreapp3.1\TypeInference_Dynamic.genruntimeconfig.cache
