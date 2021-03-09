@@ -1,0 +1,16 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ClassesExtensao.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ClassesExtensao.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ClassesExtensao.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ClassesExtensao.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ClassesExtensao.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ref\ClassesExtensao.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\bin\Debug\net5.0\ClassesExtensao.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ref\ClassesExtensao.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesExtensao\obj\Debug\net5.0\ClassesExtensao.genruntimeconfig.cache
