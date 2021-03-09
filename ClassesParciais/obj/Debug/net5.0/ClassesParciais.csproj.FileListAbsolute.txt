@@ -1,0 +1,16 @@
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ClassesParciais.exe
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ClassesParciais.deps.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ClassesParciais.runtimeconfig.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ClassesParciais.runtimeconfig.dev.json
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ClassesParciais.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ref\ClassesParciais.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\bin\Debug\net5.0\ClassesParciais.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.csprojAssemblyReference.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.AssemblyInfoInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.AssemblyInfo.cs
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ref\ClassesParciais.dll
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.pdb
+C:\Users\adrie\Desktop\DEV\C#\Avançado\ClassesParciais\obj\Debug\net5.0\ClassesParciais.genruntimeconfig.cache
